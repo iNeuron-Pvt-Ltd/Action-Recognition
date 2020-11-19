@@ -1,6 +1,6 @@
 ## Action Recognition using GluonCV
 
-![Action Recognition](https://miro.medium.com/max/711/1*a41IA-nz7w_zwo8j3LbdVQ.gif)
+![Action Recognition](https://cdn-images-1.medium.com/max/320/1*aQD-sNKtDR-LAOCZWpwn2w.gif)
 
 - This repository represents **"Human Action Recognition"** using Slowfast model from GluonCV.
 - With the help of this project, we can detect the action being performed in the video.
