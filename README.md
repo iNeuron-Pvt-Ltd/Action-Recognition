@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ## 🎯 Inference demo
 Run :-
 ```bash
-$ python3 videodetection.py --video test.mp4
+$ python3 videodetection.py --video abseiling_k400.mp4
 
 ```
 
