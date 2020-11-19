@@ -1,4 +1,31 @@
-# Action-Recognition using GluonCV
+## Action Recognition using GluonCV
 
+![Action Recognition](https://miro.medium.com/max/711/1*a41IA-nz7w_zwo8j3LbdVQ.gif)
+
+- This repository represents **"Human Action Recognition"** using Slowfast model from GluonCV.
+- With the help of this project, we can detect the action being performed in the video.
+
+## 📝 Description
+- This implementation is based on an official implementation from [GluonCV Model Zoo](https://cv.gluon.ai/build/examples_action_recognition/demo_slowfast_kinetics400.html).
+- Classify a video clip from the Internet or your local disk into one of the 400 action classes.
+- Slowfast model is trained on Kinetics400 action recognition dataset.
+
+
+## Dataset
+- Download the dataset for custom training
+- https://deepmind.com/research/open-source/kinetics
+
+## 💻 Requirements
+Python 3.6 or later with all [requirements.txt](https://github.com/iNeuron-ai/Head-Count/blob/main/requirements.txt) dependencies installed.
+- To install run :-
+```bash
+$ pip install -r requirements.txt
+```
+## 🎯 Inference demo
+Run :-
+```bash
+$ python3 videodetection.py --video test.mp4
+
+```
 
 

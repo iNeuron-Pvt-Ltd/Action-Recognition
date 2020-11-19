@@ -1,0 +1,7 @@
+1. Open the videodetection.py file in pycharm and execute the following in the terminal
+python videodetection.py --video test.mp4
+
+2. you could also do this by going to anaconda prompt, navigate to the exact location where the files reside and run the following:
+python videodetection.py --video test.mp4
+
+3. Install GluonCV from the following link: https://gluon-cv.mxnet.io/contents.html
