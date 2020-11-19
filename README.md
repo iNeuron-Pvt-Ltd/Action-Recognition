@@ -16,7 +16,7 @@
 - https://deepmind.com/research/open-source/kinetics
 
 ## 💻 Requirements
-Python 3.6 or later with all [requirements.txt](https://github.com/iNeuron-ai/Head-Count/blob/main/requirements.txt) dependencies installed.
+Python 3.6 or later with all [requirements.txt](https://github.com/iNeuron-ai/Action-Recognition/blob/main/requirements.txt) dependencies installed.
 - To install run :-
 ```bash
 $ pip install -r requirements.txt
