@@ -28,4 +28,19 @@ $ python3 videodetection.py --video abseiling_k400.mp4
 
 ```
 
-
+## Contributors
+- Akshay Kumar Prasad	
+- Akshay Namdev Kadam	
+- Arjun K	
+- ATUL KUMAR	
+- Deepak Kumar Behera	
+- Jerryl Davis	
+- Kancharla Bharath Kumar	
+- Karthik P	
+- Madhavi Patel	
+- Mukesh	
+- Oinam Bhobendra	
+- pamita singh kandari	
+- Sameer sudhir Deshmukh	
+- Sasidharan M	
+- shrinivas kandlikar
